@@ -1,1 +1,2 @@
-   ddddda   gogoxxx i try push  to  server git with  this txt!!!  
+gogoxxx conflict i try push  to  server git with  this txt!!!  
+
